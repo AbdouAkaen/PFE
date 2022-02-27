@@ -96,17 +96,17 @@ In order to change the training parameters for the training process, you can cha
 
 In order to change the epoch count:(Default is 10)
 ````
-python train.py -d <data directory> -n <change to new epoch count>
+python3 train.py -d <data directory> -n <change to new epoch count>
 ````
 In order to change the batch size:(Default is 64)
 
 ````
-python train.py -d <data directory> -b <change to new batch size>
+python3 train.py -d <data directory> -b <change to new batch size>
 ````
 In order to change the learning rate:(Default is 10e-4)
 
 ````
-python train.py -d <data directory> -l <change to new learning rate>
+python3 train.py -d <data directory> -l <change to new learning rate>
 ````
 
 Testing the trained models
@@ -117,7 +117,7 @@ To test any model:
 - Launch the simulator.
 - Select the `Autonomous mode` and then run the following command:
     - ```
-        python drive.py <path to model>
+        python3 drive.py <path to model>
         ```
     - you can record by addibng a `<directory>` just after the command line above.
 
