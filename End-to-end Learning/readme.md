@@ -51,7 +51,7 @@ I use the <a href="https://github.com/udacity/self-driving-car-sim">Udacity’s 
 
 | ![Testing process](Images/unnamed.jpg) | 
 |:--:| 
-| *Image from the training process - Track 1s* |
+| *Image from the training process - Track 1* |
 
 # Run
 Create a new environement and install the following (check `pytorch-awesome` environment): 
