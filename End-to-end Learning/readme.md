@@ -18,7 +18,7 @@ The desired goal in the whole training process is to minimize the loss function,
 <img style='width: 450px;'
      src="Images/training-624x291.png"
      alt="Training process image">
-     <legend>Training process</legend>
+     <p>Training process</p>
 
 <img style='width: 450px;'
      src="Images/inference-624x132.png"
