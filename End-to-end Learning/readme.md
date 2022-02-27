@@ -42,12 +42,9 @@ The desired goal in the whole training process is to minimize the loss function,
 - FCL:  10, activation: ELU
 - FCL:  1
 
-<div style="text-align: center;">
-<img style='width: 450px;'
-     src="Images/cnn-architecture-624x890.png">
-     <legend>CNN architecture. The network has about 27 million connections and 250 thousand parameters</legend>
-</div>
-
+| ![cnn](Images/cnn-architecture-624x890.png) | 
+|:--:| 
+| *CNN architecture. The network has about 27 million connections and 250 thousand parameters* |
 
 ## Training and testing
 ---
