@@ -14,18 +14,15 @@ After the training process, the model will be able to predict the steering angle
 
 The desired goal in the whole training process is to minimize the loss function, which is the `MSELoss`, it calculates the loss between the truth values and the results predicted by our model.
 
-<div style="text-align: center;">
-<img style='width: 450px;'
-     src="Images/training-624x291.png"
-     alt="Training process image">
-     <p>Training process</p>
 
-<img style='width: 450px;'
-     src="Images/inference-624x132.png"
-     alt="Testing process image">
-     <legend>Testing process</legend>
-</div>
+| ![Training process](Images/training-624x291.png) | 
+|:--:| 
+| *Training Process* |
+     
 
+| ![Testing process](Images/inference-624x132.png) | 
+|:--:| 
+| *Testing Process* |
 
 ## Model architecture
 ---
@@ -52,12 +49,9 @@ The desired goal in the whole training process is to minimize the loss function,
 I use the <a href="https://github.com/udacity/self-driving-car-sim">Udacity’s Self-Driving Car Simulator</a> built on Unity, which i modified by adding some random obstacles of diferent size and position.
 
 
-<div style="text-align: center;">
-<img style='width: 350px;'
-     src="Images/unnamed.jpg">
-<legend>Image from the training process - Track 1</legend>
-</div>
-
+| ![Testing process](Images/unnamed.jpg) | 
+|:--:| 
+| *Image from the training process - Track 1s* |
 
 # Run
 Create a new environement and install the following (check `pytorch-awesome` environment): 
