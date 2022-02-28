@@ -4,7 +4,7 @@
 ### Author : Akeniouene Abderrahmane
 ---
 
-This project is an imlementation of the NVIDIA end-to-end learning for self driving cars.
+This project is an implementation of the NVIDIA end-to-end learning for self driving cars.
 This implementation is made with `Pytorch` instead of `Tensorflow` because of the ease of using `cuda`.
 
 End to end learning is an algorithm by Nvidia for imitation learning.
