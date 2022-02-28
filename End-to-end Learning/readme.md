@@ -54,7 +54,7 @@ I use the <a href="https://github.com/udacity/self-driving-car-sim">Udacity’s 
 | *Image from the training process - Track 1* |
 
 # Run
-Create a new environement and install the following (check `pytorch-awesome` environment): 
+Create a new environement and install the following: 
 ````
     python3
     numpy
